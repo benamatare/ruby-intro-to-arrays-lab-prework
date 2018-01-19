@@ -12,5 +12,5 @@ def first_element(array)
 end
 
 def last_element(array)
-  return array[2]
+  return array[3]
 end
